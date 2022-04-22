@@ -1,0 +1,1 @@
+web: gunicorn recommend_game.p:app --log-file -
